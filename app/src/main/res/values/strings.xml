@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">finalproject</string>
+
+    <string name="sports">运动</string>
+    <string name="run">跑步</string>
+    <string name="walk">步行</string>
+    <string name="bike">骑行</string>
+    <string name="detail">详情</string>
+    <string name="trace">轨迹</string>
+    <string name="data">统计</string>
+    <string name="type">运动类型</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="button_default">button</string>
+
+    <string-array name="sports_type">
+        <item>所有运动</item>
+        <item>跑步</item>
+        <item>骑行</item>
+        <item>步行</item>
+    </string-array>
+
+</resources>
